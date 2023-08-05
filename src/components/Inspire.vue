@@ -1,5 +1,5 @@
 <template>
-     <div class="max-w-[100%] bg-gradient-to-b from-veryLightGray p-9">
+     <div class="md:max-w-[100%] bg-gradient-to-b from-veryLightGray p-9">
     <div class="border border-black h-[900px]">
       <div class="h-[130px]  flex justify-between items-center">
         <h1 class="text-center text-4xl font-medium whitespace-no-wrap ml-3 ">Inspire by room</h1>
@@ -9,7 +9,7 @@
           dreamed of.</h3>
       </div>
       <div class="border border-black max-w-[98%] mx-auto"></div>
-      <div class="flex justify-evenly mt-9 ">
+      <div class="md:flex md:justify-evenly mt-9 grid grid-cols-3 gap-2 md:gap-0">
         <Button Name="Bedroom"></Button>
         <Button Name="Bedroom"></Button>
         <Button Name="Dining Room"></Button>

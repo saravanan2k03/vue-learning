@@ -8,17 +8,17 @@
   <!-- inspire -->
   <Inspire></Inspire>
   <!-- Your furniture's journey -->
-  <Furniture></Furniture>
+  <!-- <Furniture></Furniture> -->
   <!-- Customize Now -->
-  <CustomizeNow></CustomizeNow>
+  <!-- <CustomizeNow></CustomizeNow> -->
   <!-- happy customers say -->
-  <HC></HC>
+  <!-- <HC></HC> -->
   <!-- Leave information -->
-  <LeaveInfo></LeaveInfo>
+  <!-- <LeaveInfo></LeaveInfo> -->
   <!-- Need help in choosing the best? -->
-  <Need></Need>
+  <!-- <Need></Need> -->
 
-  <div class="max-w-[100%] h-[475px] bg-black  flex flex-col items-center justify-center">
+  <!-- <div class="max-w-[100%] h-[475px] bg-black  flex flex-col items-center justify-center">
     <div class="min-w-[95%]">
       <div class="border-2 border-white  h-[425px] ">
         <div class="flex p-5 justify-between">
@@ -107,7 +107,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 </template>
 
 

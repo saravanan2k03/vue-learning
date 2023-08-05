@@ -1,5 +1,5 @@
 <template>
-      <nav class="relative container mx-auto  p-6">
+  <nav class="p-3 pt-3">
     <div class="flex item-center justify-between">
       <i class="fas fa-bars text-black text-lg "></i>
       <div class="flex item-center justify-center">
@@ -13,8 +13,8 @@
         <i class="fa-solid fa-cart-shopping"></i>
 
       </div>
-      <div class="flex space-x-6 md:hidden">
-        <button class="bg-yellowcolr hover:bg-yellowcolr  font-bold py-2 px-5 rounded ">
+      <div class="flex space-x-6 md:hidden pb-5">
+        <button class="bg-yellowcolr hover:bg-yellowcolr  font-bold py-1 px-5 rounded ">
           Login Now
         </button>
       </div>

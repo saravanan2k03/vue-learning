@@ -1,6 +1,6 @@
 <template>
     <button
-        class="flex space-x-2 items-center bg-veryLightGray hover:bg-yellowcolr hover:shadow-xl font-bold py-2 mt-2 p-8  border border-black">
+        class="flex md:space-x-2 justify-center items-center bg-veryLightGray hover:bg-yellowcolr hover:shadow-xl font-bold py-2 mt-2 p-8  border border-black">
         {{Name}}
     </button>
 </template>
