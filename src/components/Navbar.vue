@@ -3,7 +3,7 @@
     <div class="flex item-center justify-between">
       <i class="fas fa-bars text-black text-lg "></i>
       <div class="flex item-center justify-center">
-        <h3 class="text-black text-xl font-bold items-center pl-9">Best Woods</h3>
+        <h3 class="text-black text-xl font-bold items-center md:pl-9">Best Woods</h3>
       </div>
       <!-- Menuitem -->
       <div class="hidden md:flex space-x-6 pt-1.5">

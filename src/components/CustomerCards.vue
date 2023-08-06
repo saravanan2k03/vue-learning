@@ -1,6 +1,6 @@
 <template>
      <div class="p-3">
-        <div class="border-2 border-verylightgray max-w-[95%]">
+        <div class="border-2 border-verylightgray md:max-w-[95%] max-w-[100%]">
           <div class="h-auto">
             <div class="flex p-3 flex-col h-auto">
               <div class="ml-5">

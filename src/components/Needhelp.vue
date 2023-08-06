@@ -1,12 +1,12 @@
 <template>
    <div class=" max-w-[100%] ">
     <div class="flex justify-center">
-      <h1 class="text-start text-4xl font-medium text-black mt-10">Need help in choosing the best?</h1>
+      <h1 class="md:text-start  text-center text-4xl font-medium text-black mt-10">Need help in choosing the best?</h1>
     </div>
 
   </div>
-  <div class="flex mb-4  justify-between mt-9">
-    <div class="border-2 border-black  max-w-[70%] h-[500px] m-4">
+  <div class="md:flex mb-4  md:justify-between mt-9">
+    <div class="border-2 border-black  md:max-w-[70%] max-w-[100%] h-[500px] m-4">
       <div class="flex justify-center">
         <div class="flex flex-col p-6  max-w-[95%] h-[320px]">
           <img class=" h-full w-full object-fill"
@@ -28,7 +28,7 @@
 
     </div>
 
-    <div class="border-2 border-black  max-w-[70%] h-[500px] m-4">
+    <div class="border-2 border-black  md:max-w-[70%] max-w-[100%] h-[500px] m-4">
       <div class="flex justify-center">
         <div class="flex flex-col p-6  max-w-[95%] h-[320px]">
           <img class=" h-full w-full object-fill"
@@ -51,7 +51,7 @@
 
     </div>
 
-    <div class="border-2 border-black  max-w-[70%] h-[500px] m-4">
+    <div class="border-2 border-black  md:max-w-[70%] max-w-[100%] h-[500px] m-4">
       <div class="flex justify-center">
         <div class="flex flex-col p-6 max-w-[95%] h-[320px]">
           <img class=" h-full w-full object-fill"

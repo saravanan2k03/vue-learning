@@ -1,8 +1,8 @@
 <template>
-    <div class="flex justify-around">
+    <div class="md:flex md:justify-around grid ">
         <div class="flex flex-col justify-start items-start p-10 mt-10">
-            <h1 class="text-start text-4xl font-medium mt-2 max-w-[30%]">Your furniture's journey</h1>
-            <p class=" text-start  max-w-[45%] mt-2">Furniture manufacturing is the process of designing, creating, and
+            <h1 class="text-start text-4xl font-medium mt-2 md:max-w-[30%] max-w-[100%]">Your furniture's journey</h1>
+            <p class=" text-start  md:max-w-[45%] max-w-[100%] mt-2">Furniture manufacturing is the process of designing, creating, and
                 producing furniture. It involves a range of activities, including sourcing materials, creating designs,
                 building
                 prototypes, testing and refining products, and mass producing finished products.</p>

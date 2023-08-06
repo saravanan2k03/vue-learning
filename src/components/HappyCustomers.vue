@@ -1,9 +1,10 @@
 <template>
-      <div class="flex flex-col h-[600px] max-w-[100%]">
+  <div class="flex flex-col h-auto  max-w-[100%]">
     <div class="flex justify-center ">
-      <h2 class="text-center text-4xl font-bold text-black max-w-[30%] pt-10 mt-10">Hear what our happy customers say</h2>
+      <h2 class="text-center text-4xl font-bold text-black md:max-w-[30%] max-w-[100%] pt-10 mt-10">Hear what our happy
+        customers say</h2>
     </div>
-    <div class="flex flex-row justify-between p-6 ml-5">
+    <div class="md:flex md:flex-row grid justify-between md:p-6 md:ml-5">
       <Customercards first="You stunned right? we see
                   your happy face" second="upload your inspiration with us and define your needs like
                   comfort, materials & colors, etc., and get your quote range." Name="Jeevan Raj" loc="Mumbai">
